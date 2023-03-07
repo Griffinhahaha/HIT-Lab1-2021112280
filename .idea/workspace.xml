@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cfb49af-2a45-4f54-bbcc-8288f2036e6e" name="Changes" comment="" />
+    <list default="true" id="1cfb49af-2a45-4f54-bbcc-8288f2036e6e" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/rules/RulesOf6005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rules/RulesOf6005Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turtle/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turtle/DrawableTurtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turtle/LineSegment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turtle/PenColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turtle/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turtle/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turtle/TurtleGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/turtle/TurtleSoupTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TurtleGraphics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TurtleGraphics.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../TurtleGraphics\exportToHTML" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Mg4UGOfLSJ9HDRxlBKN4Qwy2ch" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +45,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/i/IdeaProjects/TurtleGraphics/src/rules",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\i\IdeaProjects\TurtleGraphics\src\rules" />
+      <recent name="C:\Users\i\IdeaProjects\TurtleGraphics\src\turtle" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\i\IdeaProjects\TurtleGraphics\src" />
+      <recent name="C:\Users\i\IdeaProjects\TurtleGraphics\src\turtle" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +72,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678175915254</updated>
+      <workItem from="1678175917297" duration="1219000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1678175973474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678175973474</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

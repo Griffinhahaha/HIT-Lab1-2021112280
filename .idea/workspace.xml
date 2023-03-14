@@ -5,18 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cfb49af-2a45-4f54-bbcc-8288f2036e6e" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/rules/RulesOf6005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rules/RulesOf6005Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle/DrawableTurtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle/LineSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle/PenColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle/TurtleGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/turtle/TurtleSoupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-4.13.1.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TurtleGraphics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TurtleGraphics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rules/RulesOf6005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rules/RulesOf6005Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/turtle/Action.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/turtle/DrawableTurtle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/turtle/LineSegment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/turtle/PenColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/turtle/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/turtle/Turtle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/turtle/TurtleGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/turtle/TurtleSoupTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +31,13 @@
   </component>
   <component name="ExportToHTMLSettings">
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../TurtleGraphics\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,15 +53,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/i/IdeaProjects/TurtleGraphics/src/rules",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "last_opened_file_path": "C:/Users/i/IdeaProjects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "editor.preferences.import"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA",
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -60,9 +85,97 @@
       <recent name="C:\Users\i\IdeaProjects\TurtleGraphics\src\turtle" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\i\IdeaProjects\TurtleGraphics\src" />
       <recent name="C:\Users\i\IdeaProjects\TurtleGraphics\src\turtle" />
+      <recent name="C:\Users\i\IdeaProjects\TurtleGraphics\src" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="turtle" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="rules" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TurtleSoupTest.calculateRegularPolygonAngleTest">
+    <configuration name="TurtleSoup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="turtle.TurtleSoup" />
+      <module name="TurtleGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="turtle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleSoupTest.calculateBearingToPointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TurtleGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="turtle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="turtle" />
+      <option name="MAIN_CLASS_NAME" value="turtle.TurtleSoupTest" />
+      <option name="METHOD_NAME" value="calculateBearingToPointTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleSoupTest.calculateBearingsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TurtleGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="turtle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="turtle" />
+      <option name="MAIN_CLASS_NAME" value="turtle.TurtleSoupTest" />
+      <option name="METHOD_NAME" value="calculateBearingsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleSoupTest.calculateRegularPolygonAngleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TurtleGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="turtle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="turtle" />
+      <option name="MAIN_CLASS_NAME" value="turtle.TurtleSoupTest" />
+      <option name="METHOD_NAME" value="calculateRegularPolygonAngleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TurtleSoupTest.calculateRegularPolygonAngleTest" />
+        <item itemvalue="JUnit.TurtleSoupTest.calculateBearingsTest" />
+        <item itemvalue="JUnit.TurtleSoupTest.calculateBearingToPointTest" />
+        <item itemvalue="Java Scratch.Scratch" />
+        <item itemvalue="Application.TurtleSoup" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,7 +185,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678175915254</updated>
-      <workItem from="1678175917297" duration="1219000" />
+      <workItem from="1678175917297" duration="5286000" />
+      <workItem from="1678756807281" duration="13757000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1678175973474</created>
@@ -81,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678175973474</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1678177362828</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678177362828</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
